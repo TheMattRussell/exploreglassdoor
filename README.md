@@ -1,4 +1,7 @@
 
+NB: To any Udacity reviewers reading this I was not able to cancel my submission and attach the blog post link as well so here is the link to the post:
+https://medium.com/@mwrussell0/what-to-expect-when-youre-expecting-to-find-a-job-as-a-data-analyst-ece00dde7f41
+
 ### Table of Contents
 
 1. [Overview](#overview)
